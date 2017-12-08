@@ -1,1 +1,0 @@
-# This is folder for part1, add your code and work under this folder for component 3
