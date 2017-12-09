@@ -7,21 +7,21 @@ The code of component 1 initially was running slowly, which we felt was a weakne
 
 For the visualization on the website, we used JavaScript. In HTML it is easy to relocate the visualizations on the web page. JavaScript is good for simulation and D3 library in JavaScript displays the visualization in SVG format. Placing the SVG visual on the HTML webpage is a challenge. It took us some amount of troubleshooting to solve this issue. 
 
-## component 3
+## Component 3
 we extracted data from the UFO sightings dataset. As per the requirements, we managed to write the codes and the get the correct outputs. The strength of our approach is that we made the code as modular as possible so that future users can develop unique codes from the codes we wrote. The weakness in our approach is regarding the use of bqplot. Getting the output using the bqplot was difficult because of limited amount information and documentation available about the bqplot compared to other data visualization library. The issues we faced was that the color was not changing when the drop-down menu was changed from a total number of sightings to total duration and vice versa and the graph was not changing. We solved the issues by troubleshooting the coding errors after execution of the code as well as looking for similar examples.
 In component 4 we created the infographics using Canva. To create the infographics, we selected snippets from components 1, 2 and 3 and explained the snippets in a visual format using text, arrows, and ellipses.
 To demonstrate our work, we made videos for component 1, component 2, component 3 and component 4 so that the people can get a better understanding of our data visualization works.
 Based on discussions with the team members responsible for Components 1,3 and 4, the final write-up was made.
 
-## Group assignment
-Each team member was assigned a designated task. The tasks of each team member are mentioned below:
-Code: Bin Xu, Danning Du
-Data cleaning: Bin Xu, Danning Du
-Data management: Bin Xu, Danning Du
-Website development: Bin Xu
-Interactive visualizations: Bin Xu, Danning Du, Abhishek Wagh
-Infographics: Riku Iwanaga
-Final writeup: Abhishek Wagh
+# Group assignment
+ Each team member was assigned a designated task. The tasks of each team member are mentioned below:
+- Code: Bin Xu, Danning Du
+- Data cleaning: Bin Xu, Danning Du
+- Data management: Bin Xu, Danning Du
+- Website development: Bin Xu
+- Interactive visualizations: Bin Xu, Danning Du, Abhishek Wagh
+- Infographics: Riku Iwanaga
+- Final writeup: Abhishek Wagh
 
 
 ## Video description of component 2
